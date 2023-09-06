@@ -1,3 +1,3 @@
 # Tip Calculator
 
-> Basic tip calculator created using only HTML and CSS
+> Basic tip calculator created using HTML, CSS and beginner JavaScript
